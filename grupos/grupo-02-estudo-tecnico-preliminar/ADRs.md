@@ -1,4 +1,4 @@
-# 📐 ADRs — Architecture Decision Records
+# ADRs — Architecture Decision Records
 
 > **Módulo:** Cotação e Banco de Preços  
 > **Responsável:** Pedro Ribeiro  
@@ -15,11 +15,11 @@
 
 ---
 
-## 📖 Decisões
+## Decisões
 
 ---
 
-### ADR-001 — 🔌 Integração com Banco de Preços via API
+### ADR-001 — Integração com Banco de Preços via API
 
 | Campo | Valor |
 |-------|-------|
@@ -74,7 +74,7 @@ A consulta de preços de referência será feita de forma automática, sem inter
 
 ---
 
-### ADR-002 — 🔒 Auditoria de Cotações por Registro Automático de Usuário
+### ADR-002 — Auditoria de Cotações por Registro Automático de Usuário
 
 | Campo | Valor |
 |-------|-------|
